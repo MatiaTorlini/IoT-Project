@@ -1,0 +1,10 @@
+
+{
+	"MQTTConf" : {
+		"mqtt_broker" : "localhost",
+		"mqtt_port" : 1883,
+		"mqtt_root_topic" : "EnergyCenter/",
+		"devices_QoS" : 2
+	}
+}
+

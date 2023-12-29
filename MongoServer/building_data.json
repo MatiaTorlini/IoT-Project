@@ -1,0 +1,18 @@
+
+[{
+	"CityObject" :  {
+		"city_object_id" : 123,
+		"devices" : [{"device_id":892}]
+	}
+},{
+	"CityObject" :  {
+		"city_object_id" : 456,
+		"devices" : [{"device_id":621}]
+	}
+	
+},{
+	"CityObject" :  {
+		"city_object_id" : 109,
+		"devices" : [{"device_id":92}]
+	}
+}]
